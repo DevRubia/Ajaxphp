@@ -16,18 +16,18 @@
 
 <form class="container">
   
-<div class="form-group">
+<div class="form-group" class="border border-secondary">
     <label for="exampleInputPassword1">Name</label>
     <input type="text" class="form-control"  name="name" id="exampleInputPassword1" placeholder="Password">
   </div>
 
-  <div class="form-group">
+  <div class="form-group" class="border border-warning">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
     <small id="emailHelp" class="form-text text-muted">your email is secure</small>
   </div>
   
-  <div class="form-group form-check">
+  <div class="form-group form-check" class="border border-primary">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
     <label class="form-check-label" for="exampleCheck1">Check me out</label>
   </div>
