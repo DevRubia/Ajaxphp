@@ -14,6 +14,7 @@
     .center{
         margin: auto;
         width: 50%;
+        top:50%;
         padding: 10px;
     }
 
