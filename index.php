@@ -27,7 +27,7 @@ body{
 <body class="bg-dark text-white">
     
 
-<form class="container center border border-warning">
+<form class="container bg-white text-black center border border-warning">
   
 <div class="form-group">
     <label for="exampleInputPassword1">Name</label>
