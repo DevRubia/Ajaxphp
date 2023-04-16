@@ -30,19 +30,19 @@ body{
 <form class="container bg-white text-black center border border-warning">
   
 <div class="form-group">
-    <h4 class="text-dark" for="exampleInputPassword1">Name</h4>
+    <h6 class="text-dark" for="exampleInputPassword1">Name</h6>
     <input type="text" class="form-control"  name="name" id="exampleInputPassword1" placeholder="Password">
   </div>
 
   <div class="form-group">
-    <h4 class="text-dark" for="exampleInputEmail1">Email address</h4>
+    <h6 class="text-dark" for="exampleInputEmail1">Email address</h6>
     <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
     <small id="emailHelp" class="form-text text-muted">your email is secure</small>
   </div>
   
   <div class="form-group form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <h4 class="text-dark" class="form-check-label" for="exampleCheck1">Check me out</h4>
+    <h6 class="text-dark" class="form-check-label" for="exampleCheck1">Check me out</h6>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
