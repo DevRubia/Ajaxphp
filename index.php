@@ -16,6 +16,7 @@
         width: 50%;
         padding-top:50%;
         padding: 10px;
+        border-radius:5px;
     }
 
 body{
